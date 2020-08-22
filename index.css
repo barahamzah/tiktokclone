@@ -1,0 +1,66 @@
+.img-radius{
+    width: 129px;
+    height: 42px;
+}
+.img-radius-tiktok{
+    display: flex;
+    height: 37px;
+    width: 37px;
+}
+.img-radius-unggah{
+    display: flex;
+   
+    height: 37px;
+    width: 37px;
+}
+.tampilan-atas{
+    display: flex;
+    justify-content: space-between;
+}
+.tiktok{
+    display: flex-start;
+}
+.ampilan-top{
+    display: flex;
+    justify-content: flex-end;
+}
+.tulisan-atas{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+}
+.tulisan-atas-kedua{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+.tulisan-bawah{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: cornsilk;
+    font-size: 12px;
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    width: 263px;
+    height: 486px;
+}
+.tulisan-atas-kanan{
+    display: flex;
+    flex-direction: row;
+}
+.tulisan-atas-kiri{
+    display: flex;
+    flex-direction: row;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#747474,rgb(0, 0, 0));
+    border-radius: 6px;
+
+}
